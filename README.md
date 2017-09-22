@@ -1,1 +1,1 @@
-# first_golang_app
+https://github.com/hallodetermartint/first_golang_app.git
